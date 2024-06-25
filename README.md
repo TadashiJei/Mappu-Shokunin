@@ -12,7 +12,6 @@ Mappu Shokunin is a Chrome extension that converts data on Google Maps into Exce
 
 * Easy to Use: Simple design that anyone can use immediately.
 * Direct Export to Excel: Save the extracted data directly to Excel.
-* One-Time Purchase with Lifetime Free Updates: Receive additional features and bug fixes for free.
 ( 簡単操作: 誰でもすぐに使えるシンプルな設計です。
  Excelへの直接出力: 抽出したデータをそのままExcelに保存できます。
  一度の購入で生涯アップデート無料: 追加機能や不具合修正が無料で受け取れます。 )
